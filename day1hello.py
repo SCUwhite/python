@@ -1,4 +1,4 @@
-print("hello world");
+print("hello world")
 Name=input("Enter your name: ")
 age=input("Enter your age: ")
 age=int(age)
