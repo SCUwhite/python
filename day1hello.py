@@ -1,1 +1,7 @@
 print("hello world");
+Name=input("Enter your name: ")
+age=input("Enter your age: ")
+age=int(age)
+print("你好，"+Name)
+print("你今年",age,"岁了")
+print("明年你就",age+1,"岁了")
